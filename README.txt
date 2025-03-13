@@ -1,1 +1,1 @@
-Lib: Django, pillow, psycopg, psycopg2
+Lib: Django, pillow
